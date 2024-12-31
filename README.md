@@ -39,7 +39,7 @@ Ticket Manager is a React-based project designed to manage and track tickets eff
    npm run dev
    ```
 
-2. Open your browser and navigate to `http://localhost:3000`.
+2. Open your browser and navigate to `http://localhost:5173`.
 
 ## Project Structure
 
